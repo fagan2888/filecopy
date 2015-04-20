@@ -14,7 +14,7 @@ Currently working on a file copy tool using python and Qt.
   - Copying Directories , and queueing files
   - saving progress log on pause and quit 
 
-Will be implementing them on my free time.
+Will be implementing them on my free time.(Which is none. -Exams)
 
 **Thats it!**
 
