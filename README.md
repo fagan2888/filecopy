@@ -1,8 +1,8 @@
 # pyco.py 
 python file copy tool with pause button.
 
-So , i am an ubuntu user and the file copy tools in nautilus and nemo did not seem apt.
-Currently working on a file copy tool using python and Qt.
+So , i am an ubuntu user 
+Working on a file copy tool as a hobby using python and Qt.
 
 ##Features
 ###Implemented:
